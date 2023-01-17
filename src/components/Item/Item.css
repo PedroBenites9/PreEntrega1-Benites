@@ -1,0 +1,19 @@
+.CardItem {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #8b7a5e;
+    background-color: #fffee4;
+    width: 300px;
+    margin: 20px;
+}
+
+.ItemImg {
+    height: 200px;
+}
+
+.Option {
+    text-decoration: none;
+    color: #65ac92;
+}

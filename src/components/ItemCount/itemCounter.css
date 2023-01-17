@@ -1,0 +1,20 @@
+.div__contenedor-items {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+}
+
+.div__contador {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+    width: 150px;
+}
+
+.div__button {
+    background-color: #e3dacb;
+    border-color: #f2ecdc;
+}
